@@ -670,4 +670,4 @@ async def rTT(ctx):
     
     
    
-client.run('OTI2MDYxOTAwODEzNDUxMjY0.Yc2MWg.Nd1riG5ARvh36lhHTnJ6JXrHyzU')
+client.run('put_your_token')
